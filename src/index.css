@@ -1,0 +1,8 @@
+@import '~antd/dist/antd.css';
+.ant-breadcrumb ol {
+  list-style: none;
+  padding-inline-start: 0px;
+}
+* {
+  user-select: none;
+}

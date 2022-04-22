@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.procMacro.enable": false,
+    "rust-analyzer.rustfmt.overrideCommand": [
+        "rustfmt",
+        "--config",
+        "tab_spaces=2",
+    ]
+}
